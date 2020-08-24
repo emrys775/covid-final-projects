@@ -11,7 +11,7 @@
     "Covid",
     "covid"
   ],
-  "author": "Daniel Kofi Kyeremateng",
+  "author": "Solomon Grant",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
